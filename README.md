@@ -1,4 +1,4 @@
-<c>## Construction Zone</c>
+## Construction Zone
 
 This site will eventually be a hub for information and recources relating to our campaign as we traverse through the epic WotC module...
 # Storm Kings Thunder
